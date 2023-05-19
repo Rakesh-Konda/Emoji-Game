@@ -1,0 +1,22 @@
+/* Write your code here. */
+.ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.li {
+  background-color: #9796f0;
+  margin: 10px;
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+}
+.i {
+  margin: 10px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.bv {
+  background-color: transparent;
+  border: 0px solid transparent;
+}

@@ -1,0 +1,40 @@
+/* Write your code here. */
+.bg1 {
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+  height: 100vh;
+}
+.card {
+  background-color: transparent;
+  border: 1px solid black;
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+  display: flex;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.gar {
+}
+.c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+}
+.ll {
+  color: white;
+}
+.hh {
+  color: #6a59ff;
+  font-size: 30px;
+  font-family: Robotto;
+  font-weight: bold;
+}
+.butt {
+  background-color: yellow;
+  border: 0.5px solid violet;
+}

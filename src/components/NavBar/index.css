@@ -1,0 +1,18 @@
+/* Write your code here. */
+.pp {
+  color: white;
+  margin: 5px;
+}
+.cen {
+  display: flex;
+  margin: 10px;
+}
+.hlo {
+  display: flex;
+  justify-content: space-between;
+  background-color: #9796f0;
+}
+.cen1 {
+  display: flex;
+  margin: 10px;
+}
